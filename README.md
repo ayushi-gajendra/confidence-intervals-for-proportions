@@ -1,4 +1,9 @@
-# 🛌 Human Sleep Patterns & Stress - Part 2: Sleep Duration Analysis (Proportions)
+# 🛌 Human Sleep Patterns & Stress - Part 2
+![Data Analysis](https://img.shields.io/badge/Analysis-Inferential%20Statistics-blue?style=for-the-badge)
+![Domain](https://img.shields.io/badge/Domain-Health%20%26%20Wellness-red?style=for-the-badge)
+![Method](https://img.shields.io/badge/Method-Confidence%20Intervals%20(Proportions)-purple?style=for-the-badge)
+![Google Sheets](https://img.shields.io/badge/Tools-Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+### *Sleep Duration Analysis (Confidence Intervals for Proportions)*
 
 ## 📌 Project Overview
 
@@ -6,9 +11,9 @@ Following the analysis of REM sleep stages in Part 1, this project shifts focus 
 
 ---
 
-### 🔗 Project Navigation
-* **Previous Stage:** [← Part 1 - REM Sleep Analysis (Means)](https://github.com/ayushi-gajendra/confidence-intervals-for-means)
-* **Current Stage:** Part 2 - Sleep Duration Analysis (Proportions)
+## Project Series:
+
+[`← Part 1: REM Analysis`](https://www.google.com/search?q=./Path_to_Part_1) | `Part 2: Sleep Duration`
 
 ---
 
