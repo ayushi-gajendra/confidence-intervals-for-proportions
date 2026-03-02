@@ -1,4 +1,4 @@
-# 🛌 Human Sleep Patterns & Stress: Inferential Analysis (Part 2)
+# 🛌 Human Sleep Patterns & Stress - Part 2: Sleep Duration Analysis (Proportions)
 
 ## 📌 Project Overview
 
@@ -7,7 +7,7 @@ Following the analysis of REM sleep stages in Part 1, this project shifts focus 
 ---
 
 ### 🔗 Project Navigation
-* **Previous Stage:** [← Part 1 - REM Sleep Analysis (Means)](./Path_To_Part1_Folder_Or_URL)
+* **Previous Stage:** [← Part 1 - REM Sleep Analysis (Means)](https://github.com/ayushi-gajendra/confidence-intervals-for-means)
 * **Current Stage:** Part 2 - Sleep Duration Analysis (Proportions)
 
 ---
