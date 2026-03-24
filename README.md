@@ -13,7 +13,7 @@ Following the analysis of REM sleep stages in Part 1, this project shifts focus 
 
 ## Project Series:
 
-[`← Part 1: REM Analysis`](https://www.google.com/search?q=./Path_to_Part_1) | `Part 2: Sleep Duration`
+[`← Part 1: REM Analysis`](https://github.com/ayushi-gajendra/confidence-intervals-for-means) | `Part 2: Sleep Duration`
 
 ---
 
